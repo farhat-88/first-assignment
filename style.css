@@ -1,0 +1,25 @@
+.first_div{
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+}
+h2{
+    text-align: center;
+    color:blue;
+}
+.task{
+    padding:5px;
+    color:blue;
+    font-size: larger;
+}
+.button{
+    background-color: blue;
+    color:white;
+    padding:5px;
+    border:1px solid blue;
+}
+.btn{
+    float:right;
+    padding-right:5px;
+}
